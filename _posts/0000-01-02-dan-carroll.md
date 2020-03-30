@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Dang! It's HOT outside.
 Use the left arrow to go back!
